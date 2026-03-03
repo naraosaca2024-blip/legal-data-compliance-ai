@@ -281,7 +281,7 @@ processor.rebuild_index()
 
 - **Issue 追踪**：[GitHub Issues](https://github.com/naraosaca2024-blip/legal-data-compliance-ai/issues)
 - **讨论区**：[GitHub Discussions](https://github.com/naraosaca2024-blip/legal-data-compliance-ai/discussions)
-- **邮件联系**：naraosaca2024-blip@example.com（可根据实际修改）
+- **邮件联系**：naraosaca2024@gmail.ocm
 
 ## 🎯 项目路线图
 
