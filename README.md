@@ -1,39 +1,23 @@
+# Legal Data Compliance AI
+
+## Introduction
+This repository focuses on utilizing AI for data compliance analysis, helping organizations adhere to legal standards in data management.
+
 ## 💡 使用示例
 
-### 1) Data Product Compliance Analysis Example
-In this example, we analyze a data product compliance for a newly launched fintech application. The analysis utilized the 产品模式.
+### 1. 数据产品合规性分析 (产品模式)
+在该模式下，您可以利用 AI 工具分析数据产品的合规性。通过输入数据产品的详细信息，系统将自动检查相关法律法规并提供合规性得分。
 
-**Output:**
-- **Compliance Score:** 85%
-- **Rights Confirmation:**
-  - Right to Access: Confirmed
-  - Right to Rectification: Confirmed
-  - Right to Erasure: Pending
-- **Recommendations:** Ensure user consent is collected in compliance with GDPR Article 7.
+### 2. 数据资产清单分析 (资产模式)
+使用此模式，AI 将分析组织内的所有数据资产，识别潜在的合规性风险。系统将生成一份清单，以便审计和合规团队使用，并附上综合评估指标。
 
-### 2) Data Asset Listing Analysis Example
-This example lists existing data assets within an organization and evaluates their financial metrics using the 资产模式.
+### 3. 行业案例匹配 (产业模式)
+该功能将根据实际案例与行业标准进行匹配，提供深刻的见解和专业建议。通过三个主要指标进行评估：合规性得分、三权确认以及法律参考。
 
-**Output:**
-- **Total Data Assets:** 50
-- **Average Value:** $500,000
-- **Financial Metrics:**
-  - Asset 1:
-    - Value: $750,000
-    - Compliance Score: 90%
-  - Asset 2:
-    - Value: $300,000
-    - Compliance Score: 75%
-- **Recommendations:** Consider investing in data protection technologies to improve compliance scores.
+## 评估指标
+- 合规分数：基于数据产品的合规性进行评分，分数越高代表合规性越好。
+- 三权确认：提供对数据使用权、共享权和处理权的确认，确保每个环节的合法性。
+- 专业建议：根据分析结果提供法律参考和建议，帮助用户更好地理解法律法规的适用。
 
-### 3) Industry Case Matching Example
-This case involves analyzing industry regulations and matching them with existing cases using the 产业模式.
-
-**Output:**
-- **Matched Cases:** 5
-- **Compliance Score:** 78%
-- **Rights Confirmation:**
-  - Right to Access: Confirmed
-  - Right to Rectification: Confirmed
-  - Right to Erasure: Confirmed
-- **Recommendations:** Review the latest regulations regarding data privacy in the industry and update policies accordingly. Consult with legal expert for detailed insights.
+## Conclusion
+通过本工具，组织能够优化其数据管理流程，确保所有数据活动均符合行业法律标准。
