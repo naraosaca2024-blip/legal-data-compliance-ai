@@ -300,14 +300,5 @@ processor.rebuild_index()
 - [ ] Web UI 界面优化
 - [ ] API 文档自动生成工具
 
-## 📄 相关资源
-
-- [CLIENT_USAGE.md](./CLIENT_USAGE.md) - 详细客户端使用说明
-- [知识库文档](./knowledge/) - 法律合规知识库
-- [Langchain 文档](https://python.langchain.com/)
-- [FAISS 教程](https://github.com/facebookresearch/faiss)
-
----
-
 **最后更新**：2026 年 3 月
 **维护者**：@naraosaca2024-blip
